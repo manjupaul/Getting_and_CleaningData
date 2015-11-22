@@ -19,5 +19,6 @@ Put run_analysis.R in the parent folder of UCI HAR Dataset, then set it as your 
 Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
 Libraries
 ==========
+
 library(data.table)
 library(reshape2)
